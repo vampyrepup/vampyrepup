@@ -4,7 +4,6 @@
 
 SLOWLY rethemeing lol
 
-![graphic](elissabat2.png)
 
 [ata](https://vampyrepup.atabook.org) [carrd](https://partypupper.carrd.co)
 
