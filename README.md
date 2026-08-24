@@ -1,8 +1,10 @@
 <div align=center> 
 
-![](https://komarev.com/ghpvc/?username=partypuppy&color=FFAED5&label=pups)
+![](https://komarev.com/ghpvc/?username=vampyrepup&color=531d68&label=pups)
 
-rethemeing
+SLOWLY rethemeing lol
+
+![graphic](elissabat2.png)
 
 [ata](https://vampyrepup.atabook.org) [carrd](https://partypupper.carrd.co)
 
