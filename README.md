@@ -4,7 +4,7 @@
 
 rethemeing
 
-[ata](https://partypuppy.atabook.org) [carrd](https://partypupper.carrd.co)
+[ata](https://vampyrepup.atabook.org) [carrd](https://partypupper.carrd.co)
 
 <details>
   <summary></summary>
