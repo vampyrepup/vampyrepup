@@ -4,6 +4,7 @@
 
 SLOWLY rethemeing lol
 
+![graphic](elissbat2.png)
 
 [ata](https://vampyrepup.atabook.org) [carrd](https://partypupper.carrd.co)
 
@@ -15,6 +16,8 @@ visit carrd for more info<br/>
 
 i do not support qwel .
   
-  <sub><ins>[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion) [title-town](https://github.com/title-town)</ins></sub>
+  <sub><ins>[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion) [title-town](https://github.com/title-town) </ins></sub>
+
+<sub> previously known as PARTYPUPPYY </sub>
 
 </details>
